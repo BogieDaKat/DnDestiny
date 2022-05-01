@@ -4,8 +4,8 @@
  * Author: Atropos
  * Software License: GNU GPLv3
  * Content License: https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf
- * Repository: https://gitlab.com/foundrynet/dnd5e
- * Issue Tracker: https://gitlab.com/foundrynet/dnd5e/issues
+ * Repository: https://github.com/BogieDaKat/DnDestiny
+ * Issue Tracker: https://github.com/BogieDaKat/DnDestiny/issues
  */
 
 // Import Modules
