@@ -115,7 +115,7 @@
   "secondaryTokenAttribute": null,
   "minimumCoreVersion": "9.245",
   "compatibleCoreVersion": "9",
-  "url": "https://gitlab.com/foundrynet/dnd5e",
-  "manifest": "https://gitlab.com/api/v4/projects/foundrynet%2Fdnd5e/packages/generic/dnd5e/latest/system.json",
-  "download": "https://gitlab.com/foundrynet/dnd5e/-/releases/release-1.6.0/downloads/dnd5e-release-1.6.0.zip"
+  "url": "https://github.com/BogieDaKat/DnDestiny",
+  "manifest": "https://github.com/BogieDaKat/DnDestiny/blob/main/system.json",
+  "download": "https://github.com/BogieDaKat/DnDestiny/archive/refs/tags/v1.0.0.zip"
 }
